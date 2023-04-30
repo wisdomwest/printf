@@ -1,2 +1,2 @@
 # printf
-printf-clone project with wisdom and kg 
+printf-clone project
